@@ -1,0 +1,13 @@
+name: prueba_application_7
+description: 
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+# Dependencias del proyecto
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  http: ^1.2.1 
